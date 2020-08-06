@@ -1,4 +1,7 @@
-## MERN-Admin-Panel
+## Admin-Panel
+based off of [Mern Admin Panel](https://github.com/androidneha/mern-admin-panel)
+
+Utilized to make displaying database queries simple and easy on the eyes. 
 
 ## Features
 * Login-page and Basic layout design done by using Bootstrap
